@@ -1,0 +1,24 @@
+.iconNotific{
+zoom:35%
+}
+#notificacion:hover{
+    background: white;
+    border-radius: 30px;
+}
+#brand{
+    font-family: Impact;
+    font-size: 5vh;
+    color:white;
+}
+#ul{
+    padding-right: 10%;
+}
+#musicSideBar{
+    padding-left: 2vh;
+    
+    color:white;
+  
+  font: italic bold 3vh Georgia, serif;
+
+}
+
